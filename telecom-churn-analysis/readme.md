@@ -33,7 +33,7 @@ and provided actionable business recommendations.
 
 ---
 
-## 💰 Business Impact
+##  Business Impact
 | Metric | Value |
 |--------|-------|
 | Customers Analysed | 7,043 |
@@ -43,7 +43,7 @@ and provided actionable business recommendations.
 
 ---
 
-## 📊 Charts Generated
+##  Charts Generated
 - Churn Distribution
 - Churn by Contract Type
 - Churn by Tenure
@@ -55,7 +55,7 @@ and provided actionable business recommendations.
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 1. Launch loyalty program in **first 18 months** to retain new customers
 2. Offer discounts to move customers from **monthly to annual contracts**
 3. Investigate **fiber optic service quality** and introduce retention pricing
@@ -67,17 +67,6 @@ and provided actionable business recommendations.
 - **Python** — Core analysis
 - **Pandas** — Data cleaning & manipulation
 - **Matplotlib & Seaborn** — Data visualization
-
-##  Project Structure
-
-telecom-churn-analysis/
-├── churn_analysis.ipynb   ← Main notebook
-├── churn_dashboard.png    ← Summary dashboard
-├── churn_by_contract.png
-├── churn_by_tenure.png
-├── churn_by_charges.png
-├── churn_senior.png
-└── churn_payment.png
 
 
 *Project by Dhruthi M Kashyap*  
